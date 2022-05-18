@@ -1,4 +1,6 @@
 # A Calculator App created with React
+##### :clock1130: Date: 
+February 2022
 ##### :muscle: What was my motivation?
 This project is my second React App and I had an opportunity to practice my skills in hooks.
 ##### :books: What did I learn?
